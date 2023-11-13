@@ -1,0 +1,6 @@
+﻿  Main.c
+C:\Poekti\Neerc\lab2\lab2\Main.c(87,6): warning C4013: _kbhit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Poekti\Neerc\lab2\lab2\Main.c(87,18): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Poekti\Neerc\lab2\lab2\Main.c(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Poekti\Neerc\lab2\lab2\Main.c(108,11): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  lab2.vcxproj -> C:\Poekti\Neerc\lab2\x64\Debug\lab2.exe
